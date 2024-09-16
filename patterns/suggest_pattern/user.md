@@ -382,6 +382,9 @@ Summarizes pull requests for a coding project, focusing on the types of changes 
 ## summarize_rpg_session
 This prompt outlines the process for summarizing in-person role-playing game sessions, focusing on key events, combat details, character development, and worldbuilding. It emphasizes capturing the essence of the session in a structured format, including summaries, lists, and descriptions to encapsulate the narrative and gameplay dynamics. The expected output includes a comprehensive overview of the session's storyline, character interactions, and significant moments, tailored for both players and observers.
 
+## summarize_toml
+This prompt describes the content an intentions of a TOML file.
+
 ## to_flashcards
 Creates Anki cards from texts following specific principles to ensure simplicity, optimized wording, and no reliance on external context. This approach aims to enhance learning efficiency and comprehension without requiring prior knowledge of the text. The expected output is a set of questions and answers formatted as a CSV table.
 
